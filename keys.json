@@ -7,6 +7,10 @@
     "pschyco-bro": {
       "user": "pschyco",
       "expiry": "2027-12-31 23:59:59"
+    },
+    "JOKER-BRO": {
+      "user": "JOKER",
+      "expiry": "2027-12-31 23:59:59"
     }
   }
 }
